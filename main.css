@@ -1,0 +1,52 @@
+#group {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    
+}
+
+#first {
+    background-image: url("https://www.capetown.travel/wp-content/uploads/2019/02/banner-img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+    border: white 10% solid;
+    height: 700px;
+   }
+
+#second {
+    background-image: url("https://www.budapest.com/w/respsliders/bpcompromo02_1_2_1_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+    border: white 10% solid;
+    height: 700px;
+   }
+
+#third {
+    background-image: url("https://www.galwaytourism.ie/wp-content/uploads/2019/06/about-galway.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+    border: white 10% solid;
+    height: 700px;
+   }
+
+#textbox {
+    opacity: 0.7;
+}
+
+div {
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h2 {
+    color: white;
+    font-weight: bold;
+}
+
+h4 {
+    color: white;
+    font-weight: bold;
+}
